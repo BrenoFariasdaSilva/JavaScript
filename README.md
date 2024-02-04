@@ -83,7 +83,7 @@ node ./{FileName}.js
 
 ## Contributing
 
-Code improvement recommendations are very welcome. In order to contribute, follow the steps below:
+Code improvement recommendations are very welcome, but keep in mind that many exercises will be very simple, with a lot of room for improvement, after all here is all the history of my learning progress.
 
 ## License
 
