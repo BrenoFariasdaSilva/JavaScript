@@ -1,4 +1,4 @@
-// Usage: Run this script in the browser console on the Steam Account Licenses page to get the AppIds of all the packages that can be removed.
+// Usage: Run this script in the browser console on the Steam Account Licenses page to get the AppIDs of all the packages that can be removed (demos, trailers, free games, trials, etc).
 // Steam Account Licenses page: https://store.steampowered.com/account/licenses/
 
 var appIds = []; // Array to store the AppIds
