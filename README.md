@@ -8,7 +8,8 @@
   
 ---
 
-Project-Description.
+This repo is made with the objective of showing the JavaScript, TypeScript and Node related codes i have written. \
+Feel free to contribute and send suggestions.
   
 ---
 
