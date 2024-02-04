@@ -57,8 +57,10 @@ cd JavaScript
 
 	* Manually:
 		```bash
+		# Update Package List:
+		sudo apt-get update -y
+
 		# JavaScript (Node.js and NPM):
-		sudo apt-get update
 		sudo apt-get install nodejs npm -y
 
 		# NPM Packages Globally:
