@@ -1,6 +1,6 @@
 <div align="center">
   
-# [Project-Template.](Repository-URL) <img src="Icon-Image-URL"  width="3%" height="3%">
+# [JavaScript.](Repository-URL) <img src="Icon-Image-URL"  width="3%" height="3%">
 
 </div>
 
@@ -16,10 +16,10 @@ Project-Description.
 
 <div align="center">
 
-![GitHub Code Size in Bytes Badge](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Project-Template)
-![GitHub Last Commit Badge](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Project-Template)
-![GitHub License Badge](https://img.shields.io/github/license/BrenoFariasdaSilva/Project-Template)
-![Wakatime Badge](https://wakatime.com/badge/github/BrenoFariasdaSilva/Project-Template.svg)
+![GitHub Code Size in Bytes Badge](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/JavaScript)
+![GitHub Last Commit Badge](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/JavaScript)
+![GitHub License Badge](https://img.shields.io/github/license/BrenoFariasdaSilva/JavaScript)
+![Wakatime Badge](https://wakatime.com/badge/github/BrenoFariasdaSilva/JavaScript.svg)
 
 </div>
 
@@ -30,7 +30,7 @@ Project-Description.
 </div>
 
 ## Table of Contents
-- [Project-Template. ](#project-template-)
+- [JavaScript. ](#javascript-)
 	- [Table of Contents](#table-of-contents)
 	- [Introduction](#introduction)
 	- [Requirements](#requirements)
@@ -62,8 +62,8 @@ Bullet points of the requirements.
 1. Clone the repository with the following command:
 
 ```bash
-git clone https://github.com/BrenoFariasdaSilva/Project-Template.git
-cd Project-Template
+git clone https://github.com/BrenoFariasdaSilva/JavaScript.git
+cd JavaScript
 ```
 
 ### Dependencies
@@ -76,7 +76,7 @@ make dependencies
 
 ### Dataset - Optional
 
-1. Download the dataset from [WEBSITE-HERE]() and place it in this project directory `(/Project-Template)` and run the following command:
+1. Download the dataset from [WEBSITE-HERE]() and place it in this project directory `(/JavaScript)` and run the following command:
 
 ```bash
 make dataset
