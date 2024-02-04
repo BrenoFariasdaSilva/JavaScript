@@ -33,8 +33,6 @@ Feel free to contribute and send suggestions.
 ## Table of Contents
 - [JavaScript. ](#javascript-)
 	- [Table of Contents](#table-of-contents)
-	- [Introduction](#introduction)
-	- [Requirements](#requirements)
 	- [Setup](#setup)
 		- [Clone the repository](#clone-the-repository)
 		- [Dependencies](#dependencies)
@@ -43,18 +41,7 @@ Feel free to contribute and send suggestions.
 	- [Results - Optional](#results---optional)
 	- [Contributing](#contributing)
 	- [License](#license)
-		- [Apache License 2.0](#apache-license-20)
 		- [Creative Commons Zero v1.0 Universal](#creative-commons-zero-v10-universal)
-		- [MIT License](#mit-license)
-
-
-## Introduction
-
-Detailed project description.
-
-## Requirements
-
-Bullet points of the requirements.
 
 ## Setup
 
@@ -100,15 +87,6 @@ Discuss the results obtained in the project.
 Code improvement recommendations are very welcome. In order to contribute, follow the steps below:
 
 ## License
-
-### Apache License 2.0
-
-This project is licensed under the [Apache License 2.0](LICENSE), which allows you to use, modify, distribute, and sublicense this code, even for commercial purposes, as long as you include the original copyright notice and attribute you as the original author for the repository. See the [LICENSE](LICENSE) file for more details.
-
 ### Creative Commons Zero v1.0 Universal
 
 This project is licensed under the [Creative Commons Zero v1.0 Universal](LICENSE), which means you are free to use, modify, and distribute the code, as long as you mention include the license and attribute you as the original author for the repository. See the [LICENSE](LICENSE) file for more details.
-
-### MIT License
-
-This project is licensed under the LICENSE-HERE License - see the [LICENSE](LICENSE) file for details.
