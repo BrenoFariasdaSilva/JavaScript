@@ -70,7 +70,6 @@ cd JavaScript
 
 	* Using ShellScript:
 		```bash
-		cd JavaScript
 		chmod +x install.sh
 		sudo ./install.sh
 		```
