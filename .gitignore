@@ -87,9 +87,6 @@ lerna-debug.log
 .DS_Store
 Thumbs.db
 
-# Ignore the MacOS DS_Store Files
-.DS_Store
-
 # Ignore the Windows .Desktop Files
 desktop.ini
 
