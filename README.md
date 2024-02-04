@@ -26,7 +26,7 @@ Feel free to contribute and send suggestions.
 
 <div align="center">
   
-![RepoBeats Statistics](RepoBeats-SVG-URL "Repobeats analytics image")
+![RepoBeats Statistics](https://repobeats.axiom.co/api/embed/74af16ce785b6a3ff52c75834c238a4a4f4800dc.svg "Repobeats analytics image")
 
 </div>
 
