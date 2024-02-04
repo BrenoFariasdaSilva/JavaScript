@@ -4,8 +4,10 @@
 # chmod +x install.sh
 # sudo ./install.sh
 
-# JavaScript (Node.js and NPM):
+# Update Package List:
 sudo apt-get update -y
+
+# JavaScript (Node.js and NPM):
 sudo apt-get install nodejs npm -y
 
 # NPM Packages Globally:
