@@ -5,7 +5,7 @@
 # sudo ./install.sh
 
 # JavaScript (Node.js and NPM):
-sudo apt-get update
+sudo apt-get update -y
 sudo apt-get install nodejs npm -y
 
 # NPM Packages Globally:
