@@ -1,6 +1,6 @@
 <div align="center">
   
-# [JavaScript.](Repository-URL) <img src="Icon-Image-URL"  width="3%" height="3%">
+# [JavaScript.](Repository-URL) <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  width="3%" height="3%">
 
 </div>
 
