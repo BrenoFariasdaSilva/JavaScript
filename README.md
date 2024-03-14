@@ -58,10 +58,10 @@ cd JavaScript
 	* Manually:
 		```bash
 		# Update Package List:
-		sudo apt-get update -y
+		sudo apt update -y
 
 		# JavaScript (Node.js and NPM):
-		sudo apt-get install nodejs npm -y
+		sudo apt install nodejs npm -y
 
 		# NPM Packages Globally:
 		npm install -g jshint
